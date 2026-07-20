@@ -298,12 +298,12 @@ Frontend
 
 👨‍💻 Author
 
-Mahmud Alam
+Manikanta sai
 
     🌐 Portfolio Website
-    📧 Email: mahmudalam.official@gmail.com
+    📧 Email: somumanikantasai1@gmail.com
     💻 GitHub
-    💼 LinkedIn
+    
 
 🎉 Acknowledgments
 
