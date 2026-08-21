@@ -193,12 +193,8 @@ Frontend
     Cloudinary account
 
 🚀 Getting Started
-1. Clone the repository
 
-git clone https://github.com/Mahmud-Alam/mern-doctor-appointment-booking-system.git
-cd mern-doctor-appointment-booking-system/
-
-2. Backend Setup
+1. Backend Setup
 
 cd backend
 npm install
